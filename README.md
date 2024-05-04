@@ -1,1 +1,1 @@
-My data science/analyst projects
+**My Data Science/Analyst projects**
