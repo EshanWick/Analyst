@@ -16,7 +16,7 @@ This project involved analyzing a dataset of over 16,000 patient submissions and
 - **Key Skills**: Data cleaning, merging datasets, visualization, and reporting.
 - **Tools**: Python, Matplotlib, Seaborn.
 - **Outcome**: Provided both technical and non-technical reports with insights on team performance and response trends.  
-[View Reports](link-to-your-reports)
+
 
 ---
 
@@ -28,7 +28,7 @@ Using machine learning models to predict the success of SpaceX Falcon 9 landings
 - **Key Skills**: Data extraction via APIs, cleaning, analysis, and model building.
 - **Tools**: Python, SQL, Machine Learning.
 - **Outcome**: Achieved 85% accuracy on landing predictions.  
-[View Code](link-to-your-code)
+
 
 ---
 
